@@ -1,0 +1,6 @@
+{
+  "name": "Cricket Tournament Management System",
+  "description": "Comprehensive Cricket Tournament Management System (CTMS) for managing tournaments, teams, players, fixtures, live scoring, scorecards, and automated points tables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
